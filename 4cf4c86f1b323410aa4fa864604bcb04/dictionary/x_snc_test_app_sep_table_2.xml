@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table 2" max_length="40" name="x_snc_test_app_sep_table_2" type="collection">
+        <element label="table names" max_length="40" name="table_names" type="string"/>
+    </element>
+</database>
